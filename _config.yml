@@ -4,7 +4,7 @@ theme: jekyll-theme-minimal
 title: Hi! I'm Jonathan.
 
 # Short bio
-description:  
+description:
 
 # Other links for the footer
 social-links:
@@ -12,3 +12,6 @@ social-links:
     github: jtanwk
     linkedin: jtanwk
     twitter: jtanwk
+
+# Google Analytics
+google-analytics: UA-44929874-4
