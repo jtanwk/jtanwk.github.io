@@ -8,8 +8,8 @@ Previously, I've worked on impact evaluation and database management for [Pencil
 
 ## Selected Projects
 
-Shining a Light on U.S. Solar Energy Generation:
-- [Static](https://jtanwk.github.io/us-solar/)
-- [Interactive](https://jtanwk.github.io/us-solar-d3/)
+Shining a Light on U.S. Solar Energy Generation ([static version](https://jtanwk.github.io/us-solar), [interactive version](https://jtanwk.github.io/us-solar-d3/))
 
 [24 Years of NYTimes Crossword Answers](https://jtanwk.github.io/nytcrossword/)
+
+[Alexander Hamilton Twitter bot](https://github.com/jtanwk/alhambot)
