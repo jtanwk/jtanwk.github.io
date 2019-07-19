@@ -1,1 +1,14 @@
 theme: jekyll-theme-minimal
+
+# Name of site
+title: hi! i'm jonathan.
+
+# Short bio
+description: __tbd__
+
+# Other links for the footer
+footer-links:
+    email: jon.twk@gmail.com
+    github: jtanwk
+    linkedin: jtanwk
+    twitter: jtanwk
