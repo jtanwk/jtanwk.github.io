@@ -4,10 +4,10 @@ theme: jekyll-theme-minimal
 title: hi! i'm jonathan.
 
 # Short bio
-description: __tbd__
+description: M.S. Computational Analysis & Public Policy (CAPP) student at UChicago. 
 
 # Other links for the footer
-footer-links:
+social-links:
     email: jon.twk@gmail.com
     github: jtanwk
     linkedin: jtanwk
